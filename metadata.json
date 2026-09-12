@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA AI",
+  "description": "Intelligent multilingual AI Agent and Creative Studio for chat, images, video generation, presentations, and file analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
